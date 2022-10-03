@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://incandescent-bunny-91da92.netlify.app'
 languageCode = 'en-us'
 title = 'LOLCODE Documentation'
 theme="book"
